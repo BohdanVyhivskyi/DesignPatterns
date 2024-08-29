@@ -1,0 +1,1 @@
+{"version":3,"file":"Image.js","sourceRoot":"","sources":["../../src/Task-4-Strategy/Image.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,OAAO,KAAK;IAGtB,YAAY,eAAqC;QAC7C,IAAI,CAAC,eAAe,GAAG,eAAe,CAAC;IAC3C,CAAC;IAED,kBAAkB,CAAC,eAAqC;QACpD,IAAI,CAAC,eAAe,GAAG,eAAe,CAAC;IAC3C,CAAC;IAED,SAAS,CAAC,IAAY;QAClB,IAAI,CAAC,eAAe,CAAC,SAAS,CAAC,IAAI,CAAC,CAAC;IACzC,CAAC;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"TextDocumentMemento.js","sourceRoot":"","sources":["../../src/Task-5-Memento/TextDocumentMemento.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,mBAAmB;IAGpC,YAAY,OAAe;QACvB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;IAED,UAAU;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;CACJ"}
